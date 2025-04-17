@@ -1,0 +1,5 @@
+typer[all]
+pandas
+scikit-learn
+joblib
+requests

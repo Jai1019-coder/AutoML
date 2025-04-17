@@ -1,0 +1,14 @@
+README.md
+setup.py
+automl/__init__.py
+automl/main.py
+automl.egg-info/PKG-INFO
+automl.egg-info/SOURCES.txt
+automl.egg-info/dependency_links.txt
+automl.egg-info/entry_points.txt
+automl.egg-info/requires.txt
+automl.egg-info/top_level.txt
+automl/commands/__init__.py
+automl/commands/deploy.py
+automl/commands/evaluate.py
+automl/commands/train.py
